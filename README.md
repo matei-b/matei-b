@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I’m a Computer Science student with a deep passi
 
 🌟 About Me
 
-	•	🎓 CS Student: Currently pursuing my degree in Computer Science, focusing on software development, algorithms, and systems engineering.
-	•	🛠️ Engineering Enthusiast: I enjoy working on projects that solve real-world problems, from building efficient algorithms to developing robust software systems.
+	•	🎓 CS Student
+	•	🛠️ Engineering Enthusiast
 
 🔧 Technologies & Tools
 
